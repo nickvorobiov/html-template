@@ -1,0 +1,17 @@
+.b-head {
+  background-image: url(./images/bg.jpg);
+  background-position: top center;
+  background-size: cover; }
+  .b-head__title {
+    font-weight: 700;
+    font-size: 42px; }
+  .b-head__button {
+    font-weight: 500;
+    padding: 12px 24px;
+    white-space: normal; }
+
+.b-odd {
+  background-color: #efefef; }
+
+.b-join__button {
+  white-space: normal; }
